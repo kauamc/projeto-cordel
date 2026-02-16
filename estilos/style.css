@@ -44,7 +44,9 @@ article > section {
 }
 
 article > section > p {
-    padding: 40px
+    margin: auto;
+    padding: 40px 0 20px 0;
+    max-width: 1200px;
 }
 
 section.estrofe-img {
@@ -64,7 +66,7 @@ section.estrofe2 > p {
     color: white;
 }
 
-section.estrofe3, section.estrofe6 {
+section.estrofe3, section.estrofe4 {
     text-align: right;
 }
 
